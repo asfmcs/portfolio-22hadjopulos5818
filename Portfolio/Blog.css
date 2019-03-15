@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+#title-of-web {
+   background-color: ;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+  color: lightgrey;
+}
+.column1 {
+  float: center;
+  width: 100%;
+  padding: 10px;
+  height: 300px; 
