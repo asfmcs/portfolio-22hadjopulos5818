@@ -1,0 +1,20 @@
+function start(){
+    
+    while(true){
+ var height = readInt("Choose the height: ");
+ if(height >= 1 && height <= 13);
+ break;
+}
+
+for(var row = 1; row <= height; row++){
+    
+    for(var spaces = height - row; spaces >= 0; spaces--){
+        print(" ");
+    }
+    for(var dashes = height - row +1; dashes <= height + 1; dashes++){
+        print("#");
+    }
+    println(" ");
+}
+
+}

@@ -91,3 +91,8 @@ body {
 #desc {
  color:grey;
 }
+
+.img {
+  float: right;
+  padding: 5px;
+}
