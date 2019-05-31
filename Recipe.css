@@ -1,0 +1,14 @@
+/* Style the header */
+.header {
+  background-color: lightgrey;
+  padding: 10px;
+  text-align: center;
+  font-size: 25;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 300px; 
